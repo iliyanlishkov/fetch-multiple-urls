@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "ft-fetch-multiple-urls",
+  "version": "1.0.3",
+  "description": "A function to fetch multiple URLS.",
+  "main": "index.js",
+  "author": "Iliyan Lishkov",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
